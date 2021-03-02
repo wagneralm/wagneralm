@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/wagneralm/wagneralm/blob/main/img/work-git.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop">
+
+<br>
+<br>
+<br>
 <p align="left"> 
   Olá, sou Wagnder de Almeida estudante de Análise e Desenvolvimento de Sistemas na FATEC Praia Grande, atualmente procuro estágio como desenvolvedor <strong>Front-End</strong>.
 </p>
@@ -38,4 +43,3 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/wagner.alm" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/wagner.alm"/></a> 
 </p>  
-
